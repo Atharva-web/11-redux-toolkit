@@ -9,10 +9,8 @@ function App() {
 
   return (
     <>
-
     <AddTodo />
     <Todos />
-      
     </>
   )
 }
